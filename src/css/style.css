@@ -1,0 +1,9 @@
+.sidebar {
+    display: block;
+    overflow-x: hidden;
+    overflow-y: auto; 
+    height: 100%;
+    max-width: 30%;
+}
+
+
